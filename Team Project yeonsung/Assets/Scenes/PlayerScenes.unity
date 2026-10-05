@@ -726,7 +726,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   jumpKey: 273
-  jumpForce: 15
+  jumpForce: 7
   dashKey: 32
   dashDistance: 3
   dashDuration: 0.15
